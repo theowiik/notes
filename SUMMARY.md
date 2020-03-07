@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Getting started with C\# in Godot](README.md)
 
