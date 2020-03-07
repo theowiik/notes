@@ -12,7 +12,7 @@ When I started working on a C\# project in Godot, I had a hard time finding a go
 
 ### Installation
 
-Download the mono version of Godot [https://godotengine.org/download](https://godotengine.org/download) and follow the instructions "Requirements" header.
+Download the mono version of Godot [https://godotengine.org/download](https://godotengine.org/download) and follow the instructions under "Requirements".
 
 ## Structure
 
