@@ -2,7 +2,7 @@
 description: Yet another guide
 ---
 
-# Getting started with C\# in Godot
+# Getting started with C\# in Godot \(work in progress\)
 
 ## Introduction
 
@@ -14,5 +14,13 @@ When I started working on a C\# project in Godot, I had a hard time finding a go
 
 Download the mono version of Godot [https://godotengine.org/download](https://godotengine.org/download) and follow the instructions "Requirements" header.
 
+## Structure
 
+### File structure
+
+lorem
+
+## OOP patterns applied in Godot
+
+todo
 
